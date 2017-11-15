@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [Александр Фомин](https://up.htmlacademy.ru/htmlcss/19/user/235784).
-* Наставник: `Неизвестно`.
+* Студент: [Александр Фомин](https://up.htmlacademy.ru/htmlcss/16/user/235784).
+* Наставник: [Михаил Савотиков].
 
 ---
 
@@ -20,17 +20,17 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 [Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/235784-device) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29038004-a420d688-7bae-11e7-9a40-8f72e1f3cac4.jpg">
+<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/17298668/fb1e7650-581b-11e6-889b-a7004419eaf2.png">
 
 Получится вот так:
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29038006-a4ff0afc-7bae-11e7-9786-c06aa082f7a4.jpg">
+<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/17298667/fb195e68-581b-11e6-88b2-e908810fd394.png">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку «Clone or download», а затем «Open in Desktop», чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
+Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку с иконкой компьютера и стрелкой, чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29038009-a63d0cca-7bae-11e7-9c84-95e21fcbff13.jpg">
+<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391902/17d49924-bdfc-11e5-8864-05fbcbddbb90.jpg">
 
 Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
 
